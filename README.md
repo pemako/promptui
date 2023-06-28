@@ -1,5 +1,7 @@
 # promptui
 
+Fork from [github.com/manifoldco/promptui](github.com/manifoldco/promptui)
+
 Interactive prompt for command-line applications.
 
 We built Promptui because we wanted to make it easy and fun to explore cloud
